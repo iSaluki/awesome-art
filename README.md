@@ -32,9 +32,7 @@ The best free to use art. All of the following art assets are available to use f
 
 [Phosphor](https://phosphoricons.com/) - Some more beautiful UI icons
 
-# Images
-
-Mainly realistic
+# Media (Image and Video)
 
 [Creative Commons](https://search.creativecommons.org/) - A big creative commons library
 
