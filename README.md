@@ -16,6 +16,8 @@ The best free to use art. All of the following art assets are available to use f
 
 [DrawKit](https://www.drawkit.io/) - Some more awesome designs, this one is used by companies like Google
 
+[OpenDoodles](https://opendoodles.com/) - Abstract illustrations
+
 # Icons
 
 [Feather Icons](https://feathericons.com/) - A powerful online icon library with quick adjustments available through the web interface.
@@ -31,9 +33,9 @@ The best free to use art. All of the following art assets are available to use f
 # Images
 Mainly realistic
 
-[Creative Commons](https://search.creativecommons.org/)
+[Creative Commons](https://search.creativecommons.org/) - A big creative commons library
 
-
+[Unsplash](https://unsplash.com/) - Another creative commons library
 
 # Contributing
 
