@@ -18,7 +18,7 @@ The best free to use art. All of the following art assets are available to use f
 
 [OpenDoodles](https://opendoodles.com/) - Abstract illustrations
 
-[Storyset](https://storyset.com/)
+[Storyset](https://storyset.com/) - Free illustrations that easily allow colour changing before exporting, all vectors. Each illustration available in a few different styles. Even a animation tool built in!
 
 # Icons
 
@@ -32,8 +32,9 @@ The best free to use art. All of the following art assets are available to use f
 
 [Phosphor](https://phosphoricons.com/) - Some more beautiful UI icons
 
-# Media (Image and Video)
+# Images
 
+Mainly realistic
 
 [Creative Commons](https://search.creativecommons.org/) - A big creative commons library
 
