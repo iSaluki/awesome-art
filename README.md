@@ -18,6 +18,8 @@ The best free to use art. All of the following art assets are available to use f
 
 [OpenDoodles](https://opendoodles.com/) - Abstract illustrations
 
+[Storyset](https://storyset.com/)
+
 # Icons
 
 [Feather Icons](https://feathericons.com/) - A powerful online icon library with quick adjustments available through the web interface.
@@ -31,6 +33,7 @@ The best free to use art. All of the following art assets are available to use f
 [Phosphor](https://phosphoricons.com/) - Some more beautiful UI icons
 
 # Images
+
 Mainly realistic
 
 [Creative Commons](https://search.creativecommons.org/) - A big creative commons library
