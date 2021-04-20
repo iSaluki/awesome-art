@@ -40,7 +40,7 @@ Mainly realistic
 
 [Unsplash](https://unsplash.com/) - Another creative commons library
 
-[Pixels](https://www.pexels.com/) - This one does videos too
+[Pexels](https://www.pexels.com/) - This one does videos too
 
 
 # Contributing
