@@ -22,6 +22,8 @@ The best free to use art. All of the following art assets are available to use f
 
 # Icons
 
+[Icônes](https://icones.js.org/) - Many Icon packs bundled in one website
+
 [Feather Icons](https://feathericons.com/) - A powerful online icon library with quick adjustments available through the web interface.
 
 [Icon Duck](https://iconduck.com/) - A very large library of icons
