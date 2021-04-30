@@ -34,6 +34,8 @@ The best free to use art. All of the following art assets are available to use f
 
 [Phosphor](https://phosphoricons.com/) - Some more beautiful UI icons
 
+
+
 # Media (Image and Video)
 
 [Creative Commons](https://search.creativecommons.org/) - A big creative commons library
@@ -42,7 +44,7 @@ The best free to use art. All of the following art assets are available to use f
 
 [Pexels](https://www.pexels.com/) - This one does videos too
 
-
+[Iconic app](https://iconic.app/) - Some more completely free, do "Wtf you want with" icons.
 # Contributing
 
 If any resources change or become unavailable, then please open an issue or pull request so we can update things accordingly. If you have any other great resources that you'd like to add to this list, then please open a pull request. There is so much more amazing stuff out there!
