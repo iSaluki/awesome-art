@@ -20,6 +20,8 @@ The best free to use art. All of the following art assets are available to use f
 
 [Storyset](https://storyset.com/) - Free illustrations that easily allow colour changing before exporting, all vectors. Each illustration available in a few different styles. Even a animation tool built in!
 
+[icons8](https://icons8.com/) - Icons, illustrations, photos, music, and design tools
+
 # Icons
 
 [Icônes](https://icones.js.org/) - Many Icon packs bundled in one website
